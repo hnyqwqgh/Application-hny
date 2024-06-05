@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.simplevideo.MainActivity">
+    tools:context="com.example.myapplication.MainActivity">
 
     <!--主界面的三个按钮和一个播放控件-->
     <LinearLayout
